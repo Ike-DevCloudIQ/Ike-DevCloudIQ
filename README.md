@@ -5,8 +5,8 @@
   Architecting secure, scalable cloud platforms across AWS and Azure with Terraform, Kubernetes, GitOps, and enterprise CI/CD automation.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrick-ug25)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fredrick.ug@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikenna2/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikennaubah2@yahoo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ike--DevCloudIQ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ike-DevCloudIQ)
 
 ## About Me
