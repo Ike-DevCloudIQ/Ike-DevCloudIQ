@@ -1,154 +1,153 @@
-## Hi there 👋
+# IKENNA UBAH
+## DevOps Engineer | Platform Engineer | Cloud & Infrastructure Engineer
 
-
-
-<h1 align="center">Hi, I'm Ikenna Ubah 👋</h1>
-<h3 align="center">Senior DevOps Engineer | Cloud Platform Engineer | AWS • Azure • Kubernetes</h3>
-
-<p align="center">
-I design and operate secure, scalable, production-grade cloud platforms with a strong focus on <b>automation, reliability, and developer productivity</b>.
+<p align="left">
+  Architecting secure, scalable cloud platforms across AWS and Azure with Terraform, Kubernetes, GitOps, and enterprise CI/CD automation.
 </p>
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/ikenna2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	<a href="mailto:Ikennaubah2@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-	<a href="https://github.com/Ike-DevCloudIQ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrick-ug25)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fredrick.ug@yahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ike--DevCloudIQ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ike-DevCloudIQ)
 
----
+## About Me
 
-## Professional Summary
+I am a Cloud Platform and DevOps Engineer with 5+ years of hands-on experience designing, automating, and operating resilient cloud-native platforms in production environments. I have strong expertise in Terraform, Azure, AWS, Docker, Kubernetes, Ansible, Argo CD and CI/CD practices. Previously at IOM & Alcatel, I was involved in cloud migration and DevOps automation projects that enhanced system performance and deployment efficiency.
 
-Senior DevOps Engineer with proven expertise in building and scaling cloud-native platforms across AWS and Azure.
-Specialized in Kubernetes (EKS/AKS), Infrastructure as Code, CI/CD automation, observability, and reliability engineering.
-Experienced in delivering production-ready architectures that improve deployment speed, reduce operational risk, and strengthen security posture.
+My focus is enabling engineering teams to ship faster with confidence by building reusable platform capabilities, strengthening cloud governance, and embedding observability and SRE practices into day-to-day operations.
 
-I bring a platform mindset: standardizing delivery pipelines, codifying infrastructure, and enabling engineering teams to ship faster with confidence.
+## Career Impact
 
----
+- Accelerated environment delivery by 35% through reusable Terraform modules and standardized infrastructure patterns.
+- Reduced deployment failures by 30% by engineering robust CI/CD platforms with GitHub Actions, Jenkins, and Azure DevOps.
+- Cut manual configuration effort by 40% by automating cloud provisioning with Terraform and ARM templates.
+- Strengthened security posture through IAM best practices, secret management, and policy-driven controls.
+- Containerized workloads and orchestrated production deployments on Kubernetes.
+- Improved production reliability with proactive monitoring, incident response, and root-cause-driven platform improvements.
 
-## Technical Skills
+## Core Expertise
 
-### Cloud & Infrastructure
+### Cloud and Platform Engineering
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![AKS](https://img.shields.io/badge/Azure_AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-1F6FEB?style=flat-square&logo=microsoftazure&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Templates-0062AD?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### CI/CD, GitOps, and Automation
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-### Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
+### Observability, Reliability, and Security
 
-### DevOps & CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-FC6D26?style=flat-square&logo=git&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### Monitoring, Security & Reliability
-- Prometheus, Grafana, CloudWatch, Azure Monitor
-- Logging, alerting, and incident response workflows
-- Secrets management, IAM/RBAC hardening, vulnerability scanning
-- SRE practices: SLIs/SLOs, production readiness, post-incident improvements
 
----
 
 ## Featured Projects
 
-### 1) Memos on EKS (End-to-End Platform Project)
-Production-grade deployment of Memos on AWS EKS with:
-- Terraform for infrastructure provisioning (VPC, EKS, RDS, IAM)
-- GitOps delivery using ArgoCD
-- CI/CD pipelines with image scanning and automated deployments
-- Ingress, TLS automation, external secrets, observability stack
+### 1) DevSecOps AKS Pipeline
+Repository: [devsecops-aks-pipeline](https://github.com/Ike-DevCloudIQ/devsecops-aks-pipeline)
 
-🔗 Repository: https://github.com/Ike-DevCloudIQ/memos-on-eks
+- Problem: AKS delivery pipelines often lack consistent security and quality controls.
+- Solution: Built a DevSecOps pipeline with Terraform, GitHub Actions, ArgoCD, and SonarQube.
+- Result: More repeatable, security-first releases with reduced deployment risk.
 
-### 2) 3-Tier Architecture on AWS
-Production-ready 3-tier design with:
-- Auto Scaling, Load Balancers, secure networking
-- RDS Multi-AZ and high-availability patterns
-- Infrastructure codified with Terraform
+### 2) Flask CI/CD + GitOps Platform
+Repository: [flask-cicd-gitops-platform](https://github.com/Ike-DevCloudIQ/flask-cicd-gitops-platform)
 
-🔗 Repository: https://github.com/Ike-DevCloudIQ/3-Tier-Architecture
+- Problem: Manual Flask deployments created inconsistency across environments.
+- Solution: Implemented Jenkins CI with test/scan gates and GitOps deployment via ArgoCD.
+- Result: Standardized Kubernetes delivery flow with faster, safer promotion to production.
 
-### 3) Two-Tier Application Deployment
-Cloud-native two-tier application deployment emphasizing:
-- Modular IaC
-- Repeatable CI/CD
-- Operational best practices for reliability
+### 3) Memos on EKS
+Repository: [memos-on-eks](https://github.com/Ike-DevCloudIQ/memos-on-eks)
 
-🔗 Repository: https://github.com/Ike-DevCloudIQ/Two-Tier-Application
+- Problem: Small apps needed a production-like Kubernetes baseline on AWS.
+- Solution: Deployed Memos on EKS with structured manifests and cluster-ready configuration.
+- Result: Reusable reference setup for reliable EKS operations and platform consistency.
 
----
+### 4) End-to-End DevOps on AWS
+Repository: [end-to-end-devops-aws](https://github.com/Ike-DevCloudIQ/end-to-end-devops-aws)
 
-## Professional Experience
+- Problem: Teams needed a complete AWS DevOps blueprint from infrastructure to delivery.
+- Solution: Provisioned VPC and EKS with Terraform and integrated CI/CD plus observability.
+- Result: End-to-end implementation pattern for launching and operating microservices faster.
 
-### Senior DevOps Engineer | Cloud & Platform Engineering
-- Designed and implemented secure, scalable cloud infrastructure on AWS/Azure.
-- Built reusable Terraform modules and standardized deployment patterns.
-- Developed CI/CD pipelines to reduce lead time and improve deployment consistency.
-- Containerized workloads and orchestrated production deployments on Kubernetes.
-- Improved platform observability with metrics, dashboards, and actionable alerting.
-- Strengthened security posture through IAM best practices, secret management, and policy-driven controls.
-- Led reliability improvements through incident response, root cause analysis, and preventive automation.
+### 5) 3-Tier AWS Architecture
+Repository: [3-Tier-Architecture](https://github.com/Ike-DevCloudIQ/3-Tier-Architecture)
 
----
+- Problem: Traditional app stacks needed a resilient, scalable AWS architecture pattern.
+- Solution: Designed a Terraform-based 3-tier model with ALB, Auto Scaling, and RDS Multi-AZ.
+- Result: High-availability architecture template suitable for production workloads.
 
-## Key Strengths
+### 6) Two-Tier Application Deployment
+Repository: [Two-Tier-Application](https://github.com/Ike-DevCloudIQ/Two-Tier-Application)
 
-### Technical Expertise
-- ✅ CI/CD pipeline automation and optimization
-- ✅ Cloud infrastructure provisioning (AWS & Azure)
-- ✅ Kubernetes orchestration and EKS platform operations
-- ✅ Infrastructure as Code (Terraform, Ansible)
-- ✅ Monitoring, logging, and observability engineering
-- ✅ Linux systems administration and automation scripting
-- ✅ Security-first DevOps and reliability-focused delivery
+- Problem: Teams needed a simple but reliable starter architecture for application hosting.
+- Solution: Built a two-tier environment using Infrastructure as Code and deployment automation.
+- Result: Practical foundation for onboarding CI/CD and improving operational consistency.
 
-### Professional Skills
-- ✅ Cross-functional collaboration with engineering and product teams
-- ✅ Clear technical documentation and knowledge sharing
-- ✅ Incident management and problem-solving under pressure
-- ✅ Process improvement and engineering excellence mindset
-- ✅ Stakeholder communication and delivery ownership
+### 7) Healthcare Application Assistant
+Repository: [Healthcare-Application](https://github.com/Ike-DevCloudIQ/Healthcare-Application)
 
----
+- Problem: Clinical workflows needed faster summary generation with reduced manual effort.
+- Solution: Developed an AI-assisted, containerized application with API-driven integration.
+- Result: Streamlined healthcare data workflows and improved response speed for users.
+
+### 8) SaaS Full-Stack AI Application
+Repository: [SaaS](https://github.com/Ike-DevCloudIQ/SaaS)
+
+- Problem: Building AI SaaS products requires scalable full-stack architecture and delivery discipline.
+- Solution: Implemented a Next.js/TypeScript SaaS application with AI-focused product flows.
+- Result: Demonstrated production-style SaaS engineering approach from frontend to deployment.
+
+### 9) Engineering Portfolio Website
+Repository: [my-portfolio](https://github.com/Ike-DevCloudIQ/my-portfolio)
+
+- Problem: Recruiters needed a single place to evaluate projects, certifications, and technical focus.
+- Solution: Built a React + Vite portfolio presenting cloud and DevOps work with clear structure.
+- Result: Stronger professional visibility and faster stakeholder review of technical capabilities.
+
+## Engineering Strengths
+
+- Platform architecture and cloud environments (AWS and Azure)
+- Kubernetes operations and GitOps delivery models
+- Infrastructure as Code with reusable Terraform patterns
+- CI/CD modernization and secure software delivery
+- Observability strategy (metrics, logs, dashboards, alerting)
+- Reliability engineering (SLO-focused operations, post-incident improvements)
 
 ## Certifications
 
-- AWS Certified Solutions Architect - Associate
-- AWS Certified DevOps Engineer - Professional
-- Certified Kubernetes Administrator (CKA)
+- Microsoft Certified: DevOps Engineer Expert — AZ-400
+- Microsoft Certified: Azure Developer Associate — AZ-204
+- Architecting on AWS (Fast Lane / AWS Partner Training)
 - HashiCorp Terraform Associate
-- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Security Engineer Associate — AZ-500
 
----
 
-## Education
+## Open To
 
-- B.Sc. in Computer Science (or related field)
-- Continuous learning in DevOps, Cloud Architecture, and Site Reliability Engineering
+- Senior DevOps Engineer roles
+- Platform Engineer roles
+- Cloud Infrastructure and SRE roles
+- Contract or permanent opportunities 
 
----
+## Contact
 
-## GitHub Stats
-
-<p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ike-DevCloudIQ&show_icons=true&theme=default&hide_border=true" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ike-DevCloudIQ&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=Ike-DevCloudIQ&hide_border=true" />
-</p>
-
----
-
-## Let's Connect
-
-I'm open to DevOps / Platform Engineering opportunities focused on cloud infrastructure,Terraform, Kubernetes platforms, CI/CD modernization, and reliability engineering.
-
-📩 Email: Ikennaubah2@yahoo.com
-🔗 LinkedIn: /https://www.linkedin.com/in/ikenna2/
+- Email: Ikennaubah2@yahoo.com
+- LinkedIn: https://www.linkedin.com/in/ikenna2/
+- Portfolio: https://ike-devcloudiq.github.io/my-portfolio/
