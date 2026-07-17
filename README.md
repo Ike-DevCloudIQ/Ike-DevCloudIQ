@@ -73,7 +73,7 @@ Repository: [flask-cicd-gitops-platform](https://github.com/Ike-DevCloudIQ/flask
 - Result: Standardized Kubernetes delivery flow with faster, safer promotion to production.
 
 ### 3) Memos on EKS
-Repository: [memos-on-eks](https://github.com/Ike-DevCloudIQ/memos-on-eks)
+Repository: [memos-on-eks](https://github.com/Ike-DevCloudIQ/memos-deployment)
 
 - Problem: Small apps needed a production-like Kubernetes baseline on AWS.
 - Solution: Deployed Memos on EKS with structured manifests and cluster-ready configuration.
